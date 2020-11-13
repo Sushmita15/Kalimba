@@ -1,4 +1,4 @@
-# kamilba
+# kalimba
 
 A new Flutter application.
 
